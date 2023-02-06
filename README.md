@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# bit08react
+## Descripcion
+Proyecto sobre la creacion de un programa que permita llevar el inventario de una ferreteria
+### Autor
+[Vanessa](https://www.linkedin.com/in/vanessa-robles-silva-b6732171/)
+>>>>>>> 3f0fb3c7f3c5695dd9cf087e5b9bad820a737307
