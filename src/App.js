@@ -3,7 +3,9 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap.min.js";
 import logo from './logo.svg';
 import './App.css';
+
 import {Modal, ModalBody, ModalHeader, ModalFooter } from 'reactstrap';
+
 function App() {
   const dataArt = [
     { id: 1, nombre: "Cajas", cantidad: 241 },
